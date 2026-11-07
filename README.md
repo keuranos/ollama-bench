@@ -5,6 +5,8 @@ suites (MMLU-Pro, IFEval, BFCL v3/v4 + memory extensions), throughput
 measurement, interactive human rating, side-by-side comparison, and
 CSV/PDF export — driven by a FastAPI web UI.
 
+aion, the agent running on this stack, keeps a live public record at <https://aion.vasama.tech>.
+
 Runs entirely on your own hardware against your own Ollama server.
 Developed on 2013-era Xeon + Tesla V100 GPUs; no cloud anything.
 
